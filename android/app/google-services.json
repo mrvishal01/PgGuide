@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748825828140",
+    "project_id": "pg-guide-92695",
+    "storage_bucket": "pg-guide-92695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748825828140:android:9ad1a43c9f1798eb5baa89",
+        "android_client_info": {
+          "package_name": "com.example.pg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEMyRZzGS2wGFFwlp6_q6By19Cs1nfohw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
